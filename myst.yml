@@ -18,6 +18,7 @@ project:
     - file: installation.md
     # ── Part II: Use case demonstrators ──
     - file: omop-usecase.md
+    - file: hemafair-usecase.md
     - file: gbif-sparql.md
     # ── Part III: Advanced application ──
     - file: omero.md
