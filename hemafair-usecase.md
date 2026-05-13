@@ -5,6 +5,8 @@ authors:
     orcid: "https://orcid.org/0000-0002-7449-6657"
   - name: "Rowdy de Groot"
     orcid: "https://orcid.org/0000-0002-1248-1986"
+  - name: "Andra Waagmeester"
+    orcid: "https://orcid.org/0000-0001-9773-4008"
   - name: "Martijn Kersloot"
     orcid: "https://orcid.org/0000-0003-3357-3027"
 ---
@@ -12,7 +14,7 @@ authors:
 # Use Case: HemaFAIR Training School
 
 This use case uses synthetic data generated from one of the registries from the
-[HemaFAIR](https://github.com/AmsterdamUMC/Ontop4OMOP/tree/hemafair) project.
+[HemaFAIR](https://hemafairproject.eu/) project.
 The dataset contains data of patients with rare inherited haematological disorders,
 focusing on three primary diagnoses:
 
